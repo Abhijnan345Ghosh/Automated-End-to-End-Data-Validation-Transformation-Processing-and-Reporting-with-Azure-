@@ -1,7 +1,7 @@
 
 # Automated End to End Data Validation, Transformation, Processing and Reporting with Azure Data Factory,Azure Functions and Databricks, Azure DataLake, Power Bi
 
-## Problem Statement
+## Problem Statemen
 
 The objective of the project is to design and implement an automated, event-driven data pipeline using Azure services which will validate and process incoming data. Ensures the integrity and correctness of data files as they are uploaded to Azure Data Lake.
 Seamlessly transfer validated data to Azure Data Lake Storage.Utilized Azure Databricks to transform data through multiple stages (bronze, silver, gold) to ensure data quality and readiness for analysis. Integrate the final transformed data with Power BI to create insightful and actionable reports based on business requirements.
