@@ -35,11 +35,12 @@ Seamlessly transfer validated data to Azure Data Lake Storage.Utilized Azure Dat
 
 ## Data Model
 
-![data_model](https://github.com/user-attachments/assets/f23d2f7b-d2d0-4767-a8da-222462a1969e)
+![data_model](https://github.com/user-attachments/assets/7aae2c26-0a90-4fc8-b339-7ba560c02fc6)
+
 
 
 ## Pipeline created in Azure Data Factory
 
-![pipeline](https://github.com/user-attachments/assets/1fe4f5a1-2b59-4a03-98b1-df3bbc191c76)
+![pipeline](https://github.com/user-attachments/assets/589e3863-0333-47b8-b14d-60b28b78fe5c)
 
 
