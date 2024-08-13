@@ -7,8 +7,7 @@ The objective of the project is to design and implement an automated, event-driv
 Seamlessly transfer validated data to Azure Data Lake Storage.Utilized Azure Databricks to transform data through multiple stages (bronze, silver, gold) to ensure data quality and readiness for analysis. Integrate the final transformed data with Power BI to create insightful and actionable reports based on business requirements.
 
 ## Architecture
-
-![architecture_Azure](https://github.com/user-attachments/assets/79068ee0-e1ea-4610-bbb4-7526283d3d14)
+![architecture_Azure](https://github.com/user-attachments/assets/66ea68f8-f713-43fc-9640-c54c2afa06d7)
 
 ## Technologies Used
   -   Azure DataLake
